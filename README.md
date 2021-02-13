@@ -1,6 +1,6 @@
 # Welcome to Michael's GitHub! ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
-![Michael's GitHub Banner](assets\GitHubBanner.jpg)
+![Michael's GitHub Banner](./assets/GitHubBanner.jpg)
 <br>
 
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FHippopotamusRye)](https://twitter.com/HippopotamusRye)
